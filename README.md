@@ -25,7 +25,7 @@ Note that you should have "example" folder. If you are interested in Windows Com
 
 Then, type
 ```
-git clone https://github.com/sleebldg/IIB-training.git
+git clone https://github.com/sjae-lee/CIV1299_SmartBuilding_Fall2023.git
 ```
-Now, you have a new folder named "IIB-training".
+Now, you have a new folder named "CIV1299_SmartBuilding_Fall2023".
 If you are interested in using GitHub, take a look at [Here](https://guides.github.com/activities/hello-world/). Also, you can use this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) (there are many different cheat sheets on the internet.
